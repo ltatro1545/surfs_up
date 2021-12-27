@@ -42,7 +42,13 @@ The precipitation data was queried and grouped by station ID, and then subsequen
 
 
 Percent of days that rained and average daily precipitation:
-  - USC00517948: 25.7%   --   0.058 inches/day
-  - USC00511918: 36.2%   --   0.015 inches/day
+  - USC00517948: 25.7%   --   0.153 inches/day
+  - USC00511918: 36.2%   --   0.138 inches/day
   - USC00519397: 46.7%   --   0.075 inches/day
 
+## Summary
+According to the above analysis, in June, station USC-1918 has the second lowest percentage of recorded rainy days, but also has significantly less average daily precipitation. Although more days rained in that area than around USC-7948, it only has a quarter of the precipitation. The weather is also fairly warm considering, which should attract sufers and ice cream enthusiasts alike.
+
+December generally brings frequent and heavier rain to Oahu according to all nine stations. Fortunately, the average temperature only drops by 4°F during this time, and still frequents in the 70's.
+
+Additional queries and research would be advantagious in coming to an ultimate decision. Weather stations clearly demonstrated vastly different weather data, and this analysis did not look into grouping summary statistics by weather station. Although USC-1918 appears to be the most likely candidate for the ice cream surf shop, its average temperature may be notably lower than another station. Next, additional information should be gathered on the relationship between weather and demand for ice cream as to weigh the analysis results appropriately.
